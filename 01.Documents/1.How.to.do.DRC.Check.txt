@@ -1,0 +1,14 @@
+DRC -> load -> jlcpcb-2layers.dru
+
+
+Check
+
+it is typically done at the board layout
+
+Also need to do the following to avoid stop mask error in DRC
+
+DRC->Mask->limit
+Limit: 0.004mm
+Stop Min: 0.001mm
+Stop Max: 0.004mm
+% : 100

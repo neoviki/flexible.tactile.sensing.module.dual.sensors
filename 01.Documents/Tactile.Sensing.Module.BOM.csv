@@ -1,0 +1,6 @@
+"Part";"Value";"Device";"Package";"Description";"";
+"C1";"100n";"C-EUC0201";"C0201";"CAPACITOR, European symbol";"";
+"C2";"100n";"C-EUC0201";"C0201";"CAPACITOR, European symbol";"";
+"I2C";"";"PINHD-1X4/90";"1X04/90";"PIN HEADER";"";
+"IC1";"BMP384";"BMP384";"BMP384";"";"";
+"IC2";"BMP384";"BMP384";"BMP384";"";"";

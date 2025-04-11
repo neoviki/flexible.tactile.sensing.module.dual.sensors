@@ -1,0 +1,9 @@
+Text is not visible
+
+1. On Flex PCB, JCL is not able to print text smaller than 0.6096. Your text should be 0.6096 or bigger.
+2. They forget to add stiffener
+3. The fiber glass panel stiffener cutout is wrong
+
+
+
+

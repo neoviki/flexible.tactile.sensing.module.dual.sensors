@@ -1,0 +1,3 @@
+Manufactured the flex PCB, Populated the tactile sensing module and tested successfully.
+
+

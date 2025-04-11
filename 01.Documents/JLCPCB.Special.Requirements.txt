@@ -1,0 +1,1 @@
+Please note that the stiffener area is defined in the `Stiffener_Bottom` layer. This layer includes drill holes that should be included in the stiffener material.

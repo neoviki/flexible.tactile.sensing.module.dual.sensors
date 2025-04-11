@@ -1,0 +1,8 @@
+https://jlcpcb.com/help/article/82-How-to-generate-BOM-and-CPL-from-Eagle-CAD-automatically
+
+Board Layout:
+	1. File -> Run ULP
+	2. Select File "jlcpcb_smta_exporter_v7.ulp"
+	3. Select Top Layer -> Select a new folder -> Okay
+	4. Again follow step 1 to 3 for bottom layer
+	5. Both BOM and ULP will be generated

@@ -1,0 +1,21 @@
+220 degrees, 13 percent air flow,
+
+30 cm 60 sec
+15 cm 30 sec
+10 cm 30 sec
+4 cm 30 sec
+reverse the step, solder will be intact, circular motion
+
+tin bot the componebnt and board
+
+
+Solder paste I used:
+
+	1. SN42BI58/T3 ( Mildly Rad-Active  - Carful while using )
+
+I can see the same solder paster (1) in the market by EDSYN CR11 ( same SN42BI58 composition ), Melting temperature = 215 to 260 degrees, Wow. It cost 23.99 Euro in reichelt.de
+
+
+
+
+
